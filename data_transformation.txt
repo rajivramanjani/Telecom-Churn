@@ -1,0 +1,7 @@
+Mango    1
+PQza     2
+ToCall   3
+Uxaa     4
+Weematel 5
+Zintel   6
+0        7
